@@ -1,0 +1,14 @@
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\bin\Debug\net8.0\Dsw2025Ej6.exe
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\bin\Debug\net8.0\Dsw2025Ej6.deps.json
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\bin\Debug\net8.0\Dsw2025Ej6.runtimeconfig.json
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\bin\Debug\net8.0\Dsw2025Ej6.dll
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\bin\Debug\net8.0\Dsw2025Ej6.pdb
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.AssemblyInfoInputs.cache
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.AssemblyInfo.cs
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.csproj.CoreCompileInputs.cache
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.dll
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\refint\Dsw2025Ej6.dll
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.pdb
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\Dsw2025Ej6.genruntimeconfig.cache
+C:\Users\NEW GAME\Desktop\Mia Carpeta\0 - UTN\3 - Cursado 2025\1 - Materias\3 - Desarrollo de Software\2 - Trabajos Prácticos\TP6\Dsw2025Ej6\Dsw2025Ej6\obj\Debug\net8.0\ref\Dsw2025Ej6.dll
