@@ -90,4 +90,29 @@ internal class Producto
     {
         _fechaAlta = fechaAlta;
     }
+
+    public double CalcularPrecioSinImpuesto()
+    {
+        return _precioVenta / (1 + _impuesto);
+    }
+
+    public string ObtenerDescripcionProducto()
+    {
+        return $"[{_codigo}] {_descripcion} [{_presentacion}]: {_precioVenta:C}";
+    }
+
+    public void incrementarStockEnUno()
+    {
+        _stock++;
+    }
+
+    public void decrementarStockEnUno()
+    {
+        _stock--;
+    }
+
+    public void incrementarStockEnCantidad(int cantidad)
+    {
+        _stock += cantidad;
+    }
 }
