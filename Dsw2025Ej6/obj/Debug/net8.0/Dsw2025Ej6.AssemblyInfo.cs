@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dsw2025Ej6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+979809534850355b0679c2741141464e46848d83")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dsw2025Ej6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dsw2025Ej6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

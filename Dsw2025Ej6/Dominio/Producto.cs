@@ -98,7 +98,7 @@ internal class Producto
 
     public string ObtenerDescripcionProducto()
     {
-        return $"[{_codigo}] {_descripcion} [{_presentacion}]: {_precioVenta:C}";
+        return $"- [{_codigo}] {_descripcion} [{_presentacion}]: {_precioVenta:C}";
     }
 
     public void incrementarStockEnUno()
